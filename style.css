@@ -1,0 +1,43 @@
+  #div01{
+    background: red;
+    position: absolute;
+   top:  50px;
+   left: 50px;
+   
+  }
+  #div02 {
+    background: green;
+    position: absolute;
+   top:  50px;
+   left: 50px;
+  }
+  #div03 {
+    background: blue;
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+  }
+
+  #div04{
+    background: yellow;
+    position: absolute;
+    right: 50px;
+    bottom: 50px;
+  }
+
+  *{
+    margin: 0;
+  }
+
+  div{
+    width: 100px;
+    height: 20px;
+    
+  }
+
+  #containerDiv{
+    width: 80px;
+    height: 80px;
+    background: gray;
+    position: relative;
+  }
